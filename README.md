@@ -1,7 +1,5 @@
 **Hospital Emergency Room Dashboard - Documentation**
-
 Created by: Hareesh Babu Lekkala
-
 Tool Used: Power BI Desktop
 
 **1. Overview**
