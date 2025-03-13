@@ -41,7 +41,11 @@ D. Time-Based Trends
   Peak Busy Hours: Identifies the most active hours in the ER.
   Patient Volume by Day: Tracks which days of the week have the highest traffic.
 
-  
+
+ ![consolidated view](https://github.com/user-attachments/assets/07f10939-cb13-4d95-9047-131ac1995967)
+![patient details](https://github.com/user-attachments/assets/07812e7f-96ea-4354-b871-77c0092d4aaa)
+
+ 
 **4. Insights & Key Takeaways**
 
 A. Descriptive Analysis (April 2023 - October 2024)
