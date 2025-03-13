@@ -43,6 +43,7 @@ D. Time-Based Trends
 
   
 **4. Insights & Key Takeaways**
+
 A. Descriptive Analysis (April 2023 - October 2024)
   Total unique patients: 9,216
   Average wait time: 35.3 minutes
@@ -63,6 +64,10 @@ C. Recommendations for Improvement
   Reduce patient waiting times by optimizing staff shifts during peak hours.
   Improve patient satisfaction through better resource allocation and triage management.
   Enhance emergency care efficiency by focusing on timely referrals to General Practice and Orthopedics.
+
+**Key Takeaways**
+  ![summary](https://github.com/user-attachments/assets/42da8f6f-474e-4024-ace6-f9b2b0088433)
+
 
 **5. Conclusion**
 The Hospital Emergency Room Dashboard provides a data-driven approach to managing patient flow and improving emergency care efficiency. By leveraging key insights, hospital management can optimize resources, reduce wait times, and enhance patient experience.
