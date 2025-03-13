@@ -21,6 +21,7 @@ The dashboard is structured into three main views:
 
 
 **3. Key Metrics Tracked**
+
 A. Patient Volume and Admission Status
   Number of Patients: Displays the total number of emergency room visits.
   Admission Rate: Percentage of patients admitted versus those treated and released.
