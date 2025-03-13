@@ -1,7 +1,8 @@
 **Hospital Emergency Room Dashboard - Documentation**
 
 Created by: Hareesh Babu Lekkala 
-Tool Used: Power BI Desktop
+
+Tool Used:** Power BI Desktop**
 
 **1. Overview**
 The Hospital Emergency Room Dashboard provides a comprehensive analysis of emergency room performance, patient demographics, and admission patterns. It enables hospital administrators to track patient flow, waiting times, satisfaction levels, and resource utilization.
