@@ -34,6 +34,8 @@ C. Demographics Analysis
 D. Time-Based Trends
   Peak Busy Hours: Identifies the most active hours in the ER.
   Patient Volume by Day: Tracks which days of the week have the highest traffic.
+
+  
 **4. Insights & Key Takeaways**
 A. Descriptive Analysis (April 2023 - October 2024)
   Total unique patients: 9,216
